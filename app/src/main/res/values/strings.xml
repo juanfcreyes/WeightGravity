@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeightGravity</string>
+    <string name="label">Desarrollo Android!</string>
+    <string name="default_text">Name</string>
+    <string name="example_image">Example Image</string>
+    <string name="button">Button</string>
+</resources>
